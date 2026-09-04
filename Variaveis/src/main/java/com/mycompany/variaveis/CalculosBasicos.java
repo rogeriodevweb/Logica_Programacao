@@ -17,7 +17,9 @@ public class CalculosBasicos {
         // Trabalhar com cálculo de soma
         int numero1, numero2, resultadoResto;
         int opcao;
-
+        
+        // solicite 3 numeros decimais ao usuario, e devolva a ele a soma, a multiplicacao e a divisaodo primeiro com o ultimo
+        
         double resultadoSoma, resultadoSubtracao, resultadoMultiplicacao, resultadoDivisao;
 
         Scanner entradaNumero = new Scanner(System.in);
